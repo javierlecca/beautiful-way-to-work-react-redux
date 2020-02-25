@@ -1,0 +1,16 @@
+
+.User{
+    display: block;
+}
+.User .img-card{
+    left: 20px;
+    top: 20px;
+    width: 25px;
+    height: auto;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+.User .img-card img{
+    width: 25px;
+    height: auto;
+}

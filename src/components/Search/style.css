@@ -1,0 +1,28 @@
+.Search{
+    width: 700px;
+    height: 100%;
+    margin: 0px auto;
+}
+.Search input{
+    float: left;
+    width: 550px;
+    height: 25px;
+    font-size: 15px;
+    padding-left: 10px;
+    color: #a48ea4;
+    margin-right: 20px;
+}
+.Search .Search{
+    float: left;
+    width: 100px;
+    height: 23px;
+    padding-top: 4px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 800;
+    background-color:#007c33;
+    color:#ffffff;
+    text-align: center;
+    border:1px solid #007c33;
+    border-radius: 7px;
+}
