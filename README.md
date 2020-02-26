@@ -7,3 +7,7 @@ $ git clone https://github.com/javierlecca/beautiful-way-to-work-react-redux.git
 $ npm i
 $ node index
 ```
+If you want to create a component just run:
+```sh
+$ npm run create-component {name-component}
+```
